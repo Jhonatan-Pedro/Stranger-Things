@@ -1,7 +1,7 @@
 # Stranger Things Experience — Landing Page
 
 > Landing page temática da **Stranger Things Experience**.
-> Projeto construído ao vivo durante uma **semana de programação intensiva** focada em front-end, design e interações avançadas com GSAP.
+> Projeto construído ao vivo durante uma **semana de programação intensiva** focada em front-end, design e interações com GSAP.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Sobre o Projeto
 
-Esta landing page foi desenvolvida ao longo de uma **semana de programação intensiva ao vivo**, com foco em front-end, design de interação e efeitos avançados com GSAP. O projeto foi construído do zero acompanhando as lives, cobrindo desde a estrutura HTML e estilização CSS até animações de scroll, SplitText de letras e efeito de parallax no hero.
+Esta landing page foi desenvolvida ao longo de uma **semana de programação intensiva ao vivo**, com foco em front-end, design de interação e efeitos com GSAP. O projeto foi construído do zero acompanhando as lives, cobrindo desde a estrutura HTML e estilização CSS até animações de scroll, SplitText de letras e efeito de parallax no hero.
 
 O tema escolhido é a **Stranger Things Experience**, a experiência imersiva oficial da série. A landing page recria a identidade visual sombria e atmosférica da franquia, com tipografia customizada, fundo cinematográfico em camadas e animações orientadas ao scroll.
 
